@@ -723,7 +723,7 @@ input[type="submit"]:focus {
     this code changes the color of the SVG stroke when the user hovers over the link they are inside of in the software section
 */
 /* ----- */
-#software a:hover svg{
+#software a:hover svg {
     stroke: var(--dv-lime);
 }
 
